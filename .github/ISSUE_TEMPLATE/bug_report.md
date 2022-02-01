@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: Bug report 🤔
 about: Create a report to help us improve
 title: Crashes When I Open My Colossal Chest
 labels: bug
