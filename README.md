@@ -7,7 +7,7 @@ This modpack is all about making the grind to start building, much less. With th
 This pack is still in its BETA stage as things get fully tested.
 
 ### Note:
-If you dont want to use ProjectE you can Disable the mod and it shouldnt affect gameplay and progeshon one bit.
+If you dont want to use ProjectE you can Disable the mod and it shouldnt affect gameplay and progression one bit.
 
 ## Info
 This modpack was made by [ChosenArchitect](https://www.youtube.com/ChosenArchitect)  
