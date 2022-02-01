@@ -1,5 +1,5 @@
 ---
-name: Sugestions
+name: Sugestions 👂
 about: Suggest an idea for this Modpack
 title: ''
 labels: Sugestion
