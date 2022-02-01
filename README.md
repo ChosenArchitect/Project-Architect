@@ -1,4 +1,4 @@
-# Project Architect 1.16.5 
+# Project Architect 1.16.5 Modpack
 [![Discord](https://img.shields.io/discord/262030232683413504?color=5865F2&label=Discord&logo=Discord&logoColor=5865F2&style=for-the-badge)](https://discord.gg/ChosenArchitect)     ![Twitch Status](https://img.shields.io/twitch/status/ChosenArchitect?color=A970FF&logo=Twitch&style=for-the-badge)     ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClmdJ2bwqHjZONP9rIK7geA?color=FF0000&logo=Youtube&logoColor=FF0000&style=for-the-badge)     ![Twitter Follow](https://img.shields.io/twitter/follow/ChosenArchitect?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)    [![Curseforge][curseImg]][curseLink]
 
  
